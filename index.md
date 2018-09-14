@@ -6,11 +6,11 @@ I worked as summer research interns at Argonne National Laboratory and Oak Ridge
 
 Details about my work experiences are on [LinkedIn](https://www.linkedin.com/in/abon-chaudhuri-b458599/)
 
-### Areas of Interest:
+## Areas of Interest:
 - Machine Learning, Deep Learning, Computer Vision
 - Visual Analytics, Data Visualization
 
-### Recent Presentations:
+## Recent Presentations:
 
 - Presentations on image understanding using deep learning at Walmart Labs Annual Data Science Conference (2017, 2018)
 - Understanding Product Images in E-commerce: Challenges and Lessons Learnt. Big Data Innovation Summit. San Francisco, 2018
@@ -19,7 +19,7 @@ Details about my work experiences are on [LinkedIn](https://www.linkedin.com/in/
 - Visual Analytics: A Data Scientist’s Secret Tool. Data Visualization Summit, San Francisco, USA, April 2017
 - Visual Analytics: A Data Scientist’s Secret Tool. Guest lecture at Data Visualization course in UC-San Diego Masters in Data Science and Engineering, Winter 2017
 
-### Selected Publications:
+## Selected Publications:
 
 Full list at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Chaudhuri:Abon) or [Google Scholar](https://scholar.google.com/citations?user=bBhk6VMAAAAJ&hl=en)
 
@@ -29,7 +29,7 @@ Full list at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Chaudhuri:Abon) or [Goog
 - **Scalable Computation of Distributions from Large Scale Data Sets** Abon Chaudhuri, Teng-Yok Lee, Bo Zhou, Cong Wang, Tiantian Xu, Han-Wei Shen, Tom Peterka and Yi-Jen Chiang. IEEE Symposium on Large-Scale Data Analysis and Visualization (LDAV) 2012
 - **A Self-adaptive Treemap-based Technique for Visualizing Hierarchical Data in 3D** Abon Chaudhuri and Han-Wei Shen. IEEE Pacific Visualization Symposium 2009. Beijing, China, Apr 2009
 
-### Selected Awards:
+## Selected Awards:
 
 - Best Presentation at Walmart Labs Data Science Conference 2018 
 - Best Visualization Award (Understandability Category) for Visual Analysis of Educational Choices by U.S. Students at IEEE VGTC International Data-Visualization Contest (co-located with IEEE Visualization Conference 2015)
@@ -39,7 +39,7 @@ Full list at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Chaudhuri:Abon) or [Goog
 - Best Poster Award at IEEE Scientific Visualization Conference (SciVis) 2012
 - Best Paper Award at SPIE Conference on Visualization and Data Analysis, 2012
 
-### Selected Services:
+## Selected Services:
 
 - **Meetup Chair** for IEEE VIS 2016, 2017
 - **Program Committee Member** for SIGKDD (2016-17), WWW Demo Track (2017), ECML-PKDD (2017-18), ICDM (2017-18), AIKE (2018), ISVC (2018), VDA (2016-19)
