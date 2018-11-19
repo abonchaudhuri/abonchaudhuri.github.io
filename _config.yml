@@ -1,2 +1,4 @@
 theme: minima
 title: Abon Chaudhuri
+plugins:
+  - jekyll-seo-tag
